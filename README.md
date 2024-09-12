@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Deepak Patidar
-- 👀 i am in intrested in python,angular and nest js tech
+- 👀 Explore the world of App Development with Flutter
+-  Wanted to become Data Analyst so I adopt the Python Programming Language
 - 🌱 I’m currently learning python
 -  nazm.....
 
